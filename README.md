@@ -1,1 +1,5 @@
-# Coloring-Book-Md-Report
+## Coloring-Book-Md-Report
+### 종합 팀과제 중간보고
+## 현재의 진행 내용 : CPen, Image, DoModa 등을 활용하여 Image를 불러와 색상을 선택해 색칠하는 기능은 구현하였습니다.
+## 문제점 및 해결 방안 : 편의성을 위해 CBrush를 추가하고싶은데 안배운 내용이라 시행착오를 겪으면서 구현중입니다.
+## 해결방안은 구글링을 통해 팀원들과 협의를 마쳐 CBrush 기능을 구현할 예정입니다.
